@@ -18,7 +18,7 @@ bytes = random._urandom(1490)
 
 os.system("apt install figlet")
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet DDOS")
 os.system("echo $'\e[1;33m' PLEASE USE THIS SCRIPT FOR EDUCATION PURPOSE ONLY'\e[0m'")
 
 print
